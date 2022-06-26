@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I'm a student majoring B.A in Seoul National University.
+- 🌱 And I'm really interested in creating a new value through  data analysis.
 <!--
 **first-step-kr/first-step-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

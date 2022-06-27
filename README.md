@@ -1,9 +1,16 @@
 ### Hi there 👋
-#### Status
+## Status
 - 🔭 I'm a student majoring B.A in Seoul National University.
 
-#### Interest
+## Interest
 - 🌱 making value through data analysis.
+
+
+## Stack
+
+- Python
+- Pinescript
+
 <!--
 **first-step-kr/first-step-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
 

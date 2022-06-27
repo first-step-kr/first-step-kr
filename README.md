@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Status
-- 🔭 I'm a student majoring B.A in Seoul National University.
-- 🔭 I aim to be a data analyst who solves problems through data-driven approach in an uncertain business environment
+- 🔭 I'm a **student majoring B.A** in Seoul National University.
+- 🔭 I aim to be a **data analyst** who solves problems through data-driven approach in an uncertain business environment
 
 ## Interest
 - 🌱 making value through data analysis.
